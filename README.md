@@ -1,4 +1,7 @@
-### Hi there 👋
+## Ha wakkkk, It's nice to meet me 👋
+
+###
+This is a driver enthusiast, want to be an excellent system engineer.
 
 <!--
 **kaixa-lee/kaixa-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://github-readme-stats.vercel.app/api?username=kaixa-lee&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=kaixa-lee&theme=radical&show_icons=true)
