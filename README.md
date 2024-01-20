@@ -1,4 +1,4 @@
-## Ha wakkkk, It's nice to meet me 👋
+## Ha wakkkk, It's nice to meet u 👋
 
 ###
 This is a driver enthusiast, want to be an excellent system engineer.
